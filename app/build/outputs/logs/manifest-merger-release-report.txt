@@ -1,0 +1,1294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+MERGED from [com.codesgood:justifiedtextview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c2ed9cdf678aa43665722f88caa9843c\jetified-justifiedtextview-1.1.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1184eaa500abdb299cb133941405a23b\jetified-android-networking-1.0.2\AndroidManifest.xml:18:1-27:12
+MERGED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:17:1-32:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:2:1-14:12
+MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\96720170b485a41cbfc6752943f24688\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3333e646277acb667f9e02d90f560a40\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [io.github.kexanie.library:MathView:0.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e6e1dd5bfa7d9a30e3be9040c4acea01\jetified-MathView-0.0.6\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\49dd5e925785ec907d7c035758367193\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f97c3ba3d81b7ed3fe52e59754ba46f8\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91892ea928cdea5469e6caba6bf77b73\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\93316cad7ea71bc4a520f8df6845c39c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de7ebfeea60fcafa8127753943ca51b4\jetified-play-services-vision-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5ab497c55f777902e6a30a2be4a764dd\jetified-PhotoView-2.1.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\82efe2dbc67dde93e95a233f06422584\jetified-sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ad88ff9004684aa54e892059bfd9d66e\jetified-fab-1.6.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8156c4273ff07b87e25d6927dc3c4a03\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:17:1-45:12
+MERGED from [com.github.vpotvin:caldroidx:1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c3ef00ade620d53293a1305230a066c9\jetified-caldroidx-1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\794373d4d4ae6acad477421cd5c4a833\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:commonlib] C:\Users\ruk_antala\Videos\03. Android Code\commonlib\build\.transforms\c7d7faab8d91c3311facf06abd32c3ca\jetified-commonlib\AndroidManifest.xml:2:1-11:12
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:2:1-136:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91ff947388b98a443cb6ff8fdcfdc5ba\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:2:1-28:12
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4b6a1d566c1766c75ac8b5247fbce727\jetified-exoplayer-ui-2.11.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4e3a7ff41fceeccbb37b7b0a2c34ef1a\jetified-exoplayer-core-2.11.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\76797a3f57cdd88e69ea6a3a84b0eef6\jetified-firebase-encoders-json-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fd0c95a0297849fc1beccad61e12067d\jetified-pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7c4e5bf15a330a1eb2a0c4d679906e69\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4cb5f8712f2bb0171264e131c29336d6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\daa548c2f4616f23bbd88f527c710a4d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\89c0647ffc9c8b8e3c8d29a425314a53\jetified-play-services-vision-common-19.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7d9c07415698d5d699ae13a04be3bd60\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f9fb22b52897071dc7f237e01f9c05bf\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3029f9745896998944990729f9dfd1e3\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\6c527b05e370423a27af7cd6b2d08e43\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f7c1698513236bce0a27057018574b5\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\37f2b974501fa765cf21bf2c6de622fc\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e8b9a33306028670340292fc4c6eff2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\be6269c8b430937b167f858a730bcef3\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54d3514858ea1d0308be4ea9a888f20c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e264136c30dfa69068bc9481be5ca548\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\0a00183865fbe6ce3a14b346ffcd4a10\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dc3390e5bc24f55b1a03b20749fb6af6\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8f09106a5fbf5688784a4334ca08b037\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\42cec4fab84ecbb7234f0eca7d9b2110\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e5aa46fdcbb21008a8d57e4e5ff4e3b2\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8ae792bebfd1ce53ddf7630cfbaa6283\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8d881200cb1d5b54d2b1657e91f59035\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ed2563c25d3c365888b9ce8d1bf900ee\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\030e8cde5ee01afbd04495015da41bad\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\da935d454901391b53e84fa5800609e6\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\124fdc8884cbdbe792ead93404bcf303\media-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f0990cde91c54ad2d7a0d68047feeeb\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54bd121ec6f283e1d89aef39e2a9e4fb\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eb3ad5ce89eef6e5265ca4dc23b39977\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a9a0ab761bc08de17f22febfa51c38ee\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5cdb91500c066d2d699597f3f1629c5a\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\620794db117364ad7ac401082cd808dc\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\b519dcbc4591ad59cd1d6db16f7ab5bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9d806af674cd0340e3bd39cabacb4f15\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\88ca46bf07cb76a4817555e51daf9621\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de3d7dd935bd3d36493ae9485a1562c1\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a5b8a7ad7ae60bcfb52913ca393901df\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4ff6ca73dda3d6d3f09cb96aa80786e\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4ad7fcee8c8a690b827afc096c7e4e7e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\583d2dbeea126e4c106949cd87df4dcd\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\57a166e26961b9366c67183cfce64a4c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9b125b8ab3f438c3fe60bcd7c1d561b4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c588567eb68fba11fe35bb2ab208749f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5030ee04febda16175fc5e2ee73e9fd6\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5b8e0bae60d36493e853aacd1dac124d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1185d8eec60c16825dd68e54eed971e6\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc2780a264c149d8bca4fdb6d419a1b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7e093ccf984b56a4c07f25afeeee2950\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:1-156:12
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:31:5-79
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:31:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:9:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4e3a7ff41fceeccbb37b7b0a2c34ef1a\jetified-exoplayer-core-2.11.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4e3a7ff41fceeccbb37b7b0a2c34ef1a\jetified-exoplayer-core-2.11.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:11:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:11:5-67
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:29:5-67
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:29:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:10:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:10:5-67
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:9:5-65
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:35:5-65
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:35:5-65
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:9:5-65
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:28:5-81
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:16:5-18:47
+	tools:ignore
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:17:9-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:19:5-75
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:30:5-75
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:20:22-65
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:22:5-24:35
+	android:required
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:23:9-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:25:5-27:36
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:15:5-17:36
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:15:5-17:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:15:5-17:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:26:9-57
+application
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:29:5-154:19
+MERGED from [com.codesgood:justifiedtextview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c2ed9cdf678aa43665722f88caa9843c\jetified-justifiedtextview-1.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.codesgood:justifiedtextview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c2ed9cdf678aa43665722f88caa9843c\jetified-justifiedtextview-1.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:26:5-30:19
+MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\96720170b485a41cbfc6752943f24688\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:11:5-12:19
+MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\96720170b485a41cbfc6752943f24688\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3333e646277acb667f9e02d90f560a40\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3333e646277acb667f9e02d90f560a40\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [io.github.kexanie.library:MathView:0.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e6e1dd5bfa7d9a30e3be9040c4acea01\jetified-MathView-0.0.6\AndroidManifest.xml:11:5-14:19
+MERGED from [io.github.kexanie.library:MathView:0.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e6e1dd5bfa7d9a30e3be9040c4acea01\jetified-MathView-0.0.6\AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\49dd5e925785ec907d7c035758367193\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\49dd5e925785ec907d7c035758367193\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91892ea928cdea5469e6caba6bf77b73\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91892ea928cdea5469e6caba6bf77b73\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de7ebfeea60fcafa8127753943ca51b4\jetified-play-services-vision-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de7ebfeea60fcafa8127753943ca51b4\jetified-play-services-vision-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ad88ff9004684aa54e892059bfd9d66e\jetified-fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ad88ff9004684aa54e892059bfd9d66e\jetified-fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\794373d4d4ae6acad477421cd5c4a833\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\794373d4d4ae6acad477421cd5c4a833\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:44:5-134:19
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:44:5-134:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:12:5-26:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:12:5-26:19
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:12:5-20:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:12:5-20:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\89c0647ffc9c8b8e3c8d29a425314a53\jetified-play-services-vision-common-19.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\89c0647ffc9c8b8e3c8d29a425314a53\jetified-play-services-vision-common-19.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7d9c07415698d5d699ae13a04be3bd60\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7d9c07415698d5d699ae13a04be3bd60\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3029f9745896998944990729f9dfd1e3\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3029f9745896998944990729f9dfd1e3\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\6c527b05e370423a27af7cd6b2d08e43\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\6c527b05e370423a27af7cd6b2d08e43\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f7c1698513236bce0a27057018574b5\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f7c1698513236bce0a27057018574b5\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e8b9a33306028670340292fc4c6eff2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e8b9a33306028670340292fc4c6eff2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\be6269c8b430937b167f858a730bcef3\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\be6269c8b430937b167f858a730bcef3\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54d3514858ea1d0308be4ea9a888f20c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54d3514858ea1d0308be4ea9a888f20c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e264136c30dfa69068bc9481be5ca548\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e264136c30dfa69068bc9481be5ca548\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\0a00183865fbe6ce3a14b346ffcd4a10\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\0a00183865fbe6ce3a14b346ffcd4a10\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9d806af674cd0340e3bd39cabacb4f15\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9d806af674cd0340e3bd39cabacb4f15\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4ff6ca73dda3d6d3f09cb96aa80786e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4ff6ca73dda3d6d3f09cb96aa80786e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:19:5-24:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:35:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9d806af674cd0340e3bd39cabacb4f15\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:33:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:31:9-43
+	android:resizeableActivity
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:36:9-43
+	android:roundIcon
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:37:9-54
+	tools:targetApi
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:41:9-28
+	android:largeHeap
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:34:9-33
+	android:icon
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:32:9-43
+	android:allowBackup
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:39:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:40:9-44
+activity#com.creativestudio.inlab.ui.galary.galleryvideos.ActivityVimeoVideo
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:44:9-113
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:44:19-101
+activity#com.creativestudio.inlab.ui.forgotpassword.ActivityForgotPassword
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:46:9-102
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:46:19-99
+activity#com.creativestudio.inlab.ui.batch.ActivityBatchDetails
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:48:13-82
+activity#com.creativestudio.inlab.ui.batch.ActivityBatch
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:51:13-75
+activity#com.creativestudio.inlab.ui.signup.ActivitySignUp
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:53:9-56:76
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:55:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:56:13-73
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:54:13-77
+activity#com.creativestudio.inlab.ui.paymentGateway.ActivityPaymentGateway
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:60:13-49
+	android:parentActivityName
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:59:13-107
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:58:13-93
+activity#com.creativestudio.inlab.ui.payment.ActivityPaymentHistory
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:62:13-86
+activity#com.creativestudio.inlab.ui.doubtClasses.ActivityDoubtClasses
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:64:9-67:63
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:66:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:67:13-60
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:65:13-89
+activity#com.creativestudio.inlab.ui.editProfile.ActivityProfile
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:68:9-71:63
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:71:13-60
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:69:13-83
+activity#com.creativestudio.inlab.ui.aboutapp.ActivityOpenSourceLibrary
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:72:9-99
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:72:19-96
+activity#com.creativestudio.inlab.ui.aboutapp.ActivityAboutApp
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:73:9-90
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:73:19-87
+activity#com.creativestudio.inlab.ui.settingdashboard.ActivitySettingDashboard
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:74:9-106
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:74:19-103
+activity#com.creativestudio.inlab.ui.applyleave.ActivityApplyLeave
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:75:9-78:63
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:77:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:78:13-60
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:76:13-85
+activity#com.creativestudio.inlab.ui.certificate.ActivityCertificate
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:79:9-96
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:79:19-93
+activity#com.creativestudio.inlab.ui.home.ActivityPrivacyPolicy
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:80:9-91
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:80:19-88
+activity#com.creativestudio.inlab.ui.attendance.ActivityAttendance
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:81:9-94
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:81:19-91
+activity#com.creativestudio.inlab.ui.academicrecord.ActivityAcademicRecord
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:82:9-102
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:82:19-99
+activity#com.creativestudio.inlab.ui.live.ActivityLive
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:83:9-82
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:83:19-79
+activity#com.creativestudio.inlab.ui.generatepapers.ActivityGetPapers
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:85:13-88
+activity#com.creativestudio.inlab.ui.assignment.ActivityAssignment
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:87:9-94
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:87:19-91
+activity#com.creativestudio.inlab.ui.paymentGateway.paypal
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:88:9-85
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:88:19-83
+activity#com.creativestudio.inlab.ui.extraclass.ActivityExtraClass
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:89:9-94
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:89:19-91
+activity#com.creativestudio.inlab.ui.video.ActivityYoutubeVideo
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:90:9-91:54
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:91:13-52
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:90:19-88
+activity#com.creativestudio.inlab.ui.base.BaseActivity
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:92:9-94:63
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:94:13-60
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:93:13-73
+activity#com.creativestudio.inlab.ui.UpcomingExams.ActivitySubVacancy
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:95:9-97:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:96:13-88
+activity#com.creativestudio.inlab.ui.mcq.resultquestionlist.ActivityPaperResultList
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:98:9-101:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:101:13-49
+	android:configChanges
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:100:13-74
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:99:13-102
+activity#com.creativestudio.inlab.ui.galary.galleryvideos.ActivityGalleryVideos
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:103:13-98
+activity#com.creativestudio.inlab.ui.noticeAnnouncement.ActivityForFragments
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:105:9-107:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:106:13-95
+activity#com.creativestudio.inlab.ui.mcq.generateresult.ActivityGenerateResult
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:108:9-106
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:108:19-103
+activity#com.creativestudio.inlab.ui.mcq.practiceresult.ActivityPracticeResult
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:109:9-111:77
+	android:configChanges
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:111:13-74
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:110:13-97
+activity#com.creativestudio.inlab.ui.mcq.practicepaper.ActivityPracticePaper
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:112:9-114:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:114:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:113:13-95
+activity#com.creativestudio.inlab.ui.mcq.ActivityMCQDashboard
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:115:9-117:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:117:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:116:13-80
+activity#com.creativestudio.inlab.ui.UpcomingExams.ActivityVacancyOrUpcomingExam
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:118:9-120:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:120:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:119:13-99
+activity#com.creativestudio.inlab.ui.home.ActivityHome
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:121:9-123:52
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:123:13-49
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:122:13-73
+activity#com.creativestudio.inlab.ui.login.ActivityLogin
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:124:9-127:76
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:127:13-73
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:125:13-75
+activity#com.creativestudio.inlab.ui.splash.SplashActivity
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:128:9-137:20
+	android:screenOrientation
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:130:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:131:13-60
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:129:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:132:13-136:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:133:17-69
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:133:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:135:17-77
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:135:27-74
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:139:9-141:53
+	android:resource
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:141:13-50
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:140:13-84
+service#com.creativestudio.inlab.utils.Firebase.MyFirebaseMessagingService
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:143:9-149:19
+	android:exported
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:145:13-37
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:144:13-94
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:146:13-148:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:147:17-78
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:147:25-75
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:152:9-153:40
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:23:9-25:40
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:153:13-37
+	android:name
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml:152:18-78
+uses-sdk
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+MERGED from [com.codesgood:justifiedtextview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c2ed9cdf678aa43665722f88caa9843c\jetified-justifiedtextview-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codesgood:justifiedtextview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c2ed9cdf678aa43665722f88caa9843c\jetified-justifiedtextview-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1184eaa500abdb299cb133941405a23b\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1184eaa500abdb299cb133941405a23b\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\796a6c467736d17b07d951107f4dd1be\jetified-core-10.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\96720170b485a41cbfc6752943f24688\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\96720170b485a41cbfc6752943f24688\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3333e646277acb667f9e02d90f560a40\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3333e646277acb667f9e02d90f560a40\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.kexanie.library:MathView:0.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e6e1dd5bfa7d9a30e3be9040c4acea01\jetified-MathView-0.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.kexanie.library:MathView:0.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e6e1dd5bfa7d9a30e3be9040c4acea01\jetified-MathView-0.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\49dd5e925785ec907d7c035758367193\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\49dd5e925785ec907d7c035758367193\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f97c3ba3d81b7ed3fe52e59754ba46f8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f97c3ba3d81b7ed3fe52e59754ba46f8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91892ea928cdea5469e6caba6bf77b73\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91892ea928cdea5469e6caba6bf77b73\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\93316cad7ea71bc4a520f8df6845c39c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\93316cad7ea71bc4a520f8df6845c39c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de7ebfeea60fcafa8127753943ca51b4\jetified-play-services-vision-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de7ebfeea60fcafa8127753943ca51b4\jetified-play-services-vision-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5ab497c55f777902e6a30a2be4a764dd\jetified-PhotoView-2.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5ab497c55f777902e6a30a2be4a764dd\jetified-PhotoView-2.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\82efe2dbc67dde93e95a233f06422584\jetified-sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\82efe2dbc67dde93e95a233f06422584\jetified-sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ad88ff9004684aa54e892059bfd9d66e\jetified-fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ad88ff9004684aa54e892059bfd9d66e\jetified-fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8156c4273ff07b87e25d6927dc3c4a03\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8156c4273ff07b87e25d6927dc3c4a03\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.vpotvin:caldroidx:1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c3ef00ade620d53293a1305230a066c9\jetified-caldroidx-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vpotvin:caldroidx:1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c3ef00ade620d53293a1305230a066c9\jetified-caldroidx-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\794373d4d4ae6acad477421cd5c4a833\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\794373d4d4ae6acad477421cd5c4a833\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [:commonlib] C:\Users\ruk_antala\Videos\03. Android Code\commonlib\build\.transforms\c7d7faab8d91c3311facf06abd32c3ca\jetified-commonlib\AndroidManifest.xml:7:5-9:41
+MERGED from [:commonlib] C:\Users\ruk_antala\Videos\03. Android Code\commonlib\build\.transforms\c7d7faab8d91c3311facf06abd32c3ca\jetified-commonlib\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91ff947388b98a443cb6ff8fdcfdc5ba\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\91ff947388b98a443cb6ff8fdcfdc5ba\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4b6a1d566c1766c75ac8b5247fbce727\jetified-exoplayer-ui-2.11.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4b6a1d566c1766c75ac8b5247fbce727\jetified-exoplayer-ui-2.11.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4e3a7ff41fceeccbb37b7b0a2c34ef1a\jetified-exoplayer-core-2.11.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.11.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4e3a7ff41fceeccbb37b7b0a2c34ef1a\jetified-exoplayer-core-2.11.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\76797a3f57cdd88e69ea6a3a84b0eef6\jetified-firebase-encoders-json-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\76797a3f57cdd88e69ea6a3a84b0eef6\jetified-firebase-encoders-json-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fd0c95a0297849fc1beccad61e12067d\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fd0c95a0297849fc1beccad61e12067d\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7c4e5bf15a330a1eb2a0c4d679906e69\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7c4e5bf15a330a1eb2a0c4d679906e69\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4cb5f8712f2bb0171264e131c29336d6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4cb5f8712f2bb0171264e131c29336d6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\daa548c2f4616f23bbd88f527c710a4d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\daa548c2f4616f23bbd88f527c710a4d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\89c0647ffc9c8b8e3c8d29a425314a53\jetified-play-services-vision-common-19.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\89c0647ffc9c8b8e3c8d29a425314a53\jetified-play-services-vision-common-19.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7d9c07415698d5d699ae13a04be3bd60\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7d9c07415698d5d699ae13a04be3bd60\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f9fb22b52897071dc7f237e01f9c05bf\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f9fb22b52897071dc7f237e01f9c05bf\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3029f9745896998944990729f9dfd1e3\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3029f9745896998944990729f9dfd1e3\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\6c527b05e370423a27af7cd6b2d08e43\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\6c527b05e370423a27af7cd6b2d08e43\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f7c1698513236bce0a27057018574b5\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f7c1698513236bce0a27057018574b5\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\37f2b974501fa765cf21bf2c6de622fc\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\37f2b974501fa765cf21bf2c6de622fc\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e8b9a33306028670340292fc4c6eff2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e8b9a33306028670340292fc4c6eff2\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\be6269c8b430937b167f858a730bcef3\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\be6269c8b430937b167f858a730bcef3\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54d3514858ea1d0308be4ea9a888f20c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54d3514858ea1d0308be4ea9a888f20c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e264136c30dfa69068bc9481be5ca548\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e264136c30dfa69068bc9481be5ca548\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\0a00183865fbe6ce3a14b346ffcd4a10\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\0a00183865fbe6ce3a14b346ffcd4a10\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dc3390e5bc24f55b1a03b20749fb6af6\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dc3390e5bc24f55b1a03b20749fb6af6\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8f09106a5fbf5688784a4334ca08b037\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8f09106a5fbf5688784a4334ca08b037\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\42cec4fab84ecbb7234f0eca7d9b2110\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\42cec4fab84ecbb7234f0eca7d9b2110\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e5aa46fdcbb21008a8d57e4e5ff4e3b2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e5aa46fdcbb21008a8d57e4e5ff4e3b2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8ae792bebfd1ce53ddf7630cfbaa6283\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8ae792bebfd1ce53ddf7630cfbaa6283\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8d881200cb1d5b54d2b1657e91f59035\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\8d881200cb1d5b54d2b1657e91f59035\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ed2563c25d3c365888b9ce8d1bf900ee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ed2563c25d3c365888b9ce8d1bf900ee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\030e8cde5ee01afbd04495015da41bad\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\030e8cde5ee01afbd04495015da41bad\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\da935d454901391b53e84fa5800609e6\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\da935d454901391b53e84fa5800609e6\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\124fdc8884cbdbe792ead93404bcf303\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\124fdc8884cbdbe792ead93404bcf303\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f0990cde91c54ad2d7a0d68047feeeb\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5f0990cde91c54ad2d7a0d68047feeeb\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54bd121ec6f283e1d89aef39e2a9e4fb\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\54bd121ec6f283e1d89aef39e2a9e4fb\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eb3ad5ce89eef6e5265ca4dc23b39977\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eb3ad5ce89eef6e5265ca4dc23b39977\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a9a0ab761bc08de17f22febfa51c38ee\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a9a0ab761bc08de17f22febfa51c38ee\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5cdb91500c066d2d699597f3f1629c5a\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5cdb91500c066d2d699597f3f1629c5a\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\620794db117364ad7ac401082cd808dc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\620794db117364ad7ac401082cd808dc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\b519dcbc4591ad59cd1d6db16f7ab5bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\b519dcbc4591ad59cd1d6db16f7ab5bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9d806af674cd0340e3bd39cabacb4f15\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9d806af674cd0340e3bd39cabacb4f15\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\88ca46bf07cb76a4817555e51daf9621\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\88ca46bf07cb76a4817555e51daf9621\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de3d7dd935bd3d36493ae9485a1562c1\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\de3d7dd935bd3d36493ae9485a1562c1\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a5b8a7ad7ae60bcfb52913ca393901df\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a5b8a7ad7ae60bcfb52913ca393901df\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4ff6ca73dda3d6d3f09cb96aa80786e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4ff6ca73dda3d6d3f09cb96aa80786e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4ad7fcee8c8a690b827afc096c7e4e7e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\4ad7fcee8c8a690b827afc096c7e4e7e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\583d2dbeea126e4c106949cd87df4dcd\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\583d2dbeea126e4c106949cd87df4dcd\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\57a166e26961b9366c67183cfce64a4c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\57a166e26961b9366c67183cfce64a4c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9b125b8ab3f438c3fe60bcd7c1d561b4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9b125b8ab3f438c3fe60bcd7c1d561b4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c588567eb68fba11fe35bb2ab208749f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\c588567eb68fba11fe35bb2ab208749f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5030ee04febda16175fc5e2ee73e9fd6\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5030ee04febda16175fc5e2ee73e9fd6\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5b8e0bae60d36493e853aacd1dac124d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\5b8e0bae60d36493e853aacd1dac124d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1185d8eec60c16825dd68e54eed971e6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1185d8eec60c16825dd68e54eed971e6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc2780a264c149d8bca4fdb6d419a1b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc2780a264c149d8bca4fdb6d419a1b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7e093ccf984b56a4c07f25afeeee2950\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\7e093ccf984b56a4c07f25afeeee2950\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruk_antala\Videos\03. Android Code\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.1.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa21729505384e34fb4b7c719cd2bb6\jetified-dexter-6.1.2\AndroidManifest.xml:28:13-60
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3583df804d9742629a2787498599cc25\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:13:9-19:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:13:9-19:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\dcc4eee8c76c9fc925e3e77d068859d6\jetified-firebase-messaging-20.3.0\AndroidManifest.xml:40:17-119
+uses-feature#0x00020000
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:11:5-54
+	android:glEsVersion
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:11:19-51
+uses-feature#android.hardware.camera
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:12:5-14:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:12:5-14:36
+MERGED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.telephony
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:19:9-50
+uses-feature#android.hardware.bluetooth
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:22:9-50
+uses-feature#android.hardware.microphone
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:25:9-51
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:32:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:33:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:34:5-71
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:34:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:37:22-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:39:5-68
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\a98bb614e18e7ceefea5e7f43f37356d\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:39:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:40:22-66
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:41:5-78
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:41:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:42:5-77
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:42:22-74
+activity#com.zipow.videobox.JoinByURLActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:45:9-49:58
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:48:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:47:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:49:13-55
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:46:13-64
+activity#com.zipow.videobox.IntegrationActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:50:9-54:58
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:53:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:52:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:54:13-55
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:51:13-66
+activity#com.zipow.videobox.MeetingEndMessageActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:55:9-58:59
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:57:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:56:13-72
+activity#com.zipow.videobox.JoinMeetingFailActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:59:9-63:59
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:62:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:61:13-129
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:60:13-70
+activity#com.zipow.videobox.ConfActivityNormal
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:64:9-68:56
+	android:hardwareAccelerated
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:67:13-48
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:66:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:68:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:65:13-65
+activity#com.zipow.videobox.PListActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:69:9-73:56
+	android:hardwareAccelerated
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:72:13-48
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:71:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:70:13-60
+activity#com.zipow.videobox.InMeetingSettingsActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:74:9-78:56
+	android:hardwareAccelerated
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:77:13-48
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:76:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:78:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:75:13-72
+activity#com.zipow.videobox.ConfChatActivityOld
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:79:9-82:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:81:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:82:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:80:13-66
+activity#com.zipow.videobox.MeetingRunningInfoActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:83:9-86:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:85:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:86:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:84:13-73
+activity#com.zipow.videobox.CallInActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:87:9-90:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:89:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:90:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:88:13-61
+activity#com.zipow.videobox.SimpleActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:91:9-95:70
+	android:windowSoftInputMode
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:95:13-67
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:93:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:94:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:92:13-61
+activity#com.zipow.videobox.SimpleInMeetingActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:96:9-100:70
+	android:windowSoftInputMode
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:100:13-67
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:98:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:99:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:97:13-70
+activity#com.zipow.videobox.poll.PollingActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:101:9-104:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:103:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:104:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:102:13-67
+activity#com.zipow.videobox.poll.WebinarPollingActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:105:9-108:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:107:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:108:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:106:13-74
+activity#com.zipow.videobox.poll.PollingResultActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:109:9-112:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:111:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:112:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:110:13-73
+activity#com.zipow.videobox.poll.WebinarPollingResultActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:113:9-116:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:115:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:116:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:114:13-80
+activity#us.zoom.androidlib.app.ZMFileListActivity
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:117:9-120:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:119:13-59
+	android:theme
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:120:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:118:13-69
+service#com.zipow.videobox.kubi.KubiService
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:122:9-125:51
+	android:label
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:125:13-48
+	android:exported
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:124:13-37
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:123:13-63
+service#com.zipow.videobox.OnClearFromRecentService
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:127:13-71
+service#com.zipow.videobox.share.ScreenShareServiceForSDK
+ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:129:9-133:51
+	android:label
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:133:13-48
+	android:exported
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:131:13-37
+	android:foregroundServiceType
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:132:13-60
+	android:name
+		ADDED from [:mobilertc] C:\Users\ruk_antala\Videos\03. Android Code\mobilertc\build\.transforms\e5c0384f8478ef12486646cd287b16ed\jetified-mobilertc\AndroidManifest.xml:130:13-77
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:13:9-84
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:13:19-81
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:14:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:15:9-91
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:15:19-88
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:16:9-82
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:16:19-79
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:17:9-96
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:17:19-93
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:18:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:18:19-94
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:19:9-94
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:19:19-91
+activity#com.paypal.android.sdk.payments.PayPalProfileSharingActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:20:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:20:19-94
+activity#com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:21:9-98
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\fe0c39c4f28b084aac4e58e0293c0439\jetified-paypal-android-sdk-2.16.0\AndroidManifest.xml:21:19-95
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:14:25-62
+activity#com.razorpay.CheckoutActivity
+ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:18:9-29:20
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:19:13-57
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:22:13-28:29
+data
+ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:25:17-27:47
+	android:host
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:26:21-42
+	android:scheme
+		ADDED from [com.razorpay:checkout:1.5.16] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\59c06995b7a22a72b9d4e3948d13357c\jetified-checkout-1.5.16\AndroidManifest.xml:27:21-44
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:16:13-18:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:17.2.2] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\21e23e2d7a1b6605d2f08922b51365e0\jetified-firebase-crashlytics-17.2.2\AndroidManifest.xml:17:17-115
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\9e546ac7005e4155dbb0c5e3e629674e\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\72f17e8b227a96dcbd1c622236793f19\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:33:17-94
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\d702c713409b049243a39e2cc56cf465\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\ce7d5024238f271082339113d9e9e51e\jetified-firebase-iid-20.3.0\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\e20611bf50264309170177f50b9a1109\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f4fcdbe4cb5b7ddb185a414638fdda37\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\eaf662f611ee418a611b84709d61e71e\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3aa57cfc560f3abec030ebeecdfe0ac3\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\bb5a00fc3ae00d2409183f2a7f146406\jetified-firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\3591fd04c8e50b35f82ce7f53ccaedab\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\f1c6d36c9b7c6e59341b28c6857990f1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\85d81137c5d0859e312068c27fdca118\jetified-transport-runtime-2.2.4\AndroidManifest.xml:33:13-132
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:10:22-63
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] C:\Users\ruk_antala\.gradle\caches\transforms-2\files-2.1\1b48e0f33033016615835263810567d9\jetified-android-sdk-5.5.1\AndroidManifest.xml:23:19-67

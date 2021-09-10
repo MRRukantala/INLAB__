@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/_8sdp"
+    android:paddingBottom="@dimen/_8sdp">
+
+    <com.creativestudio.inlab.utils.widgets.CustomSmallText
+        android:id="@+id/tvDateAttendance"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.1"
+        android:fontFamily="@font/nunito"
+        android:gravity="center"
+        tools:text="2021-08-20" />
+
+    <com.creativestudio.inlab.utils.widgets.CustomSmallText
+        android:id="@+id/tvTime"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/nunito"
+        android:gravity="center"
+        tools:text="12:42:44 PM" />
+
+    <com.creativestudio.inlab.utils.widgets.CustomSmallText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/nunito"
+        android:gravity="center"
+        android:text="@string/Present" />
+</LinearLayout>

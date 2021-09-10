@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vpotvin:caldroidx:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3ef00ade620d53293a1305230a066c9/jetified-caldroidx-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3ef00ade620d53293a1305230a066c9/jetified-caldroidx-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3ef00ade620d53293a1305230a066c9/jetified-caldroidx-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vpotvin/caldroidx/1.0/d5e9bdc47c478816ec986c4f0def4c59dd4fc914/caldroidx-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vpotvin/caldroidx/1.0/22291d005174d706d5f26f5a1f2d1e55f142e24f/caldroidx-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

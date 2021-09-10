@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_curve_grey"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/loginTv"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_70sdp"
+            android:layout_marginBottom="@dimen/_12sdp"
+            android:background="@drawable/back_ui"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.creativestudio.inlab.utils.widgets.CustomTextBold
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_4sdp"
+                android:fontFamily="@font/nunito"
+                android:gravity="center"
+                android:paddingLeft="@dimen/_12sdp"
+                android:paddingTop="@dimen/_3sdp"
+                android:paddingRight="@dimen/_12sdp"
+                android:text="@string/app_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14sdp" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomTextBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/nunito"
+                android:gravity="center"
+                android:text="@string/OurCourses"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_13sdp" />
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/noResultIv"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_210sdp"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_16sdp"
+            android:padding="@dimen/_12sdp"
+            android:src="@drawable/noresults"
+            android:visibility="gone" />
+
+        <com.creativestudio.inlab.utils.widgets.CustomSmallText
+            android:id="@+id/refreshTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:drawableTop="@drawable/zm_ic_refresh"
+            android:gravity="center"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/Try_again_server_issue"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/_13sdp"
+            android:visibility="gone" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_14sdp" />
+
+
+    </LinearLayout>
+
+    <com.creativestudio.inlab.utils.widgets.CustomTextBold
+
+        android:id="@+id/loginTv"
+        android:layout_width="@dimen/_280sdp"
+        android:layout_height="@dimen/_38sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:background="@drawable/back_shade_designmain"
+        android:elevation="@dimen/_2sdp"
+        android:fontFamily="@font/nunito"
+        android:gravity="center"
+        android:padding="@dimen/_4sdp"
+        android:text="@string/LOGIN"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_12sdp" />
+</RelativeLayout>

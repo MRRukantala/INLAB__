@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341739641078",
+    "project_id": "creative-studio-inlab",
+    "storage_bucket": "creative-studio-inlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341739641078:android:bba7f44528fbaa359d74d7",
+        "android_client_info": {
+          "package_name": "com.creativestudio.inlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341739641078-edt6lacj4ko37pc5g52l7qvfv3h9pkfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creativestudio.inlab",
+            "certificate_hash": "dd78537d5c2ee573fb64270646bcd749ca75ede9"
+          }
+        },
+        {
+          "client_id": "341739641078-i83lvkqpcbkhskv8cnchs88h912b1c2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoL9FhvAXt1_pilMqCIaot2ToM-y-F8-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341739641078-i83lvkqpcbkhskv8cnchs88h912b1c2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

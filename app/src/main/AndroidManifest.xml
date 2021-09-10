@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.creativestudio.inlab">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+
+
+
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <uses-feature
+        android:name="android.hardware.camera.any"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:resizeableActivity="false"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="q"
+        >
+
+        <activity android:name="com.creativestudio.inlab.ui.galary.galleryvideos.ActivityVimeoVideo"></activity>
+
+        <activity android:name="com.creativestudio.inlab.ui.forgotpassword.ActivityForgotPassword" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.batch.ActivityBatchDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.batch.ActivityBatch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.signup.ActivitySignUp"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.paymentGateway.ActivityPaymentGateway"
+            android:parentActivityName="com.creativestudio.inlab.ui.paymentGateway.ActivityPaymentGateway"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.payment.ActivityPaymentHistory"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.doubtClasses.ActivityDoubtClasses"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.editProfile.ActivityProfile"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="com.creativestudio.inlab.ui.aboutapp.ActivityOpenSourceLibrary" />
+        <activity android:name="com.creativestudio.inlab.ui.aboutapp.ActivityAboutApp" />
+        <activity android:name="com.creativestudio.inlab.ui.settingdashboard.ActivitySettingDashboard" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.applyleave.ActivityApplyLeave"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="com.creativestudio.inlab.ui.certificate.ActivityCertificate" />
+        <activity android:name="com.creativestudio.inlab.ui.home.ActivityPrivacyPolicy" />
+        <activity android:name="com.creativestudio.inlab.ui.attendance.ActivityAttendance" />
+        <activity android:name="com.creativestudio.inlab.ui.academicrecord.ActivityAcademicRecord" />
+        <activity android:name="com.creativestudio.inlab.ui.live.ActivityLive" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.generatepapers.ActivityGetPapers"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.creativestudio.inlab.ui.assignment.ActivityAssignment" />
+        <activity android:name="com.creativestudio.inlab.ui.paymentGateway.paypal"/>
+        <activity android:name="com.creativestudio.inlab.ui.extraclass.ActivityExtraClass" />
+        <activity android:name="com.creativestudio.inlab.ui.video.ActivityYoutubeVideo"
+            android:screenOrientation="unspecified"/>
+        <activity
+            android:name="com.creativestudio.inlab.ui.base.BaseActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.UpcomingExams.ActivitySubVacancy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.mcq.resultquestionlist.ActivityPaperResultList"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.galary.galleryvideos.ActivityGalleryVideos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.noticeAnnouncement.ActivityForFragments"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.creativestudio.inlab.ui.mcq.generateresult.ActivityGenerateResult" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.mcq.practiceresult.ActivityPracticeResult"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.mcq.practicepaper.ActivityPracticePaper"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.mcq.ActivityMCQDashboard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.UpcomingExams.ActivityVacancyOrUpcomingExam"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.home.ActivityHome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.login.ActivityLogin"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+        <activity
+            android:name="com.creativestudio.inlab.ui.splash.SplashActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+
+        <service
+            android:name="com.creativestudio.inlab.utils.Firebase.MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <!-- pay pal server decler -->
+
+        <service android:name="com.paypal.android.sdk.payments.PayPalService"
+            android:exported="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:commonlib:unspecified">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/commonlib/build/.transforms/d920f86dbc4fa30da39c0094752f7c7e/jetified-commonlib/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/commonlib/build/.transforms/d920f86dbc4fa30da39c0094752f7c7e/jetified-commonlib/res" />
+      <root url="jar://$PROJECT_DIR$/commonlib/build/.transforms/d920f86dbc4fa30da39c0094752f7c7e/jetified-commonlib/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/commonlib/build/.transforms/d920f86dbc4fa30da39c0094752f7c7e/jetified-commonlib/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backcurve"
+    android:gravity="start"
+    android:orientation="vertical"
+
+    >
+
+    <include layout="@layout/header" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back_curve_white"
+        android:scrollbars="none">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="14dp"
+
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:orientation="horizontal">
+
+                <RelativeLayout
+
+                    android:layout_width="92dp"
+                    android:layout_height="99dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="5dp">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/profile"
+                        android:layout_width="92dp"
+                        android:layout_height="90dp"
+                        android:src="@drawable/ic_profile"
+                        app:civ_border_color="@color/colorPrimaryDark"
+                        app:civ_border_width="1dp" />
+
+                    <ImageView
+                        android:id="@+id/chngeProfile"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/redcircle_back_grad"
+                        android:padding="8dp"
+                        android:src="@drawable/ic_baseline_photo_camera_24" />
+                </RelativeLayout>
+
+                <com.creativestudio.inlab.utils.widgets.CustomeTextRegular
+                    android:id="@+id/batchName"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/_12sdp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginEnd="20dp"
+                    android:fontFamily="@font/nunito"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/colorPrimaryDark"
+
+                    tools:text="Batch: Entrepreneurship Camp 2021" />
+            </LinearLayout>
+
+            <com.creativestudio.inlab.utils.widgets.CustomeTextRegular
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/nunito"
+                android:text="@string/NAME" />
+
+
+            <com.creativestudio.inlab.utils.widgets.CustomEditText
+                android:id="@+id/tvName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/login_edit_grad"
+
+                android:hint="@string/NAME"
+                android:maxLength="30"
+                android:paddingStart="20dp"
+                android:paddingTop="14dp"
+                android:paddingEnd="20dp"
+                android:paddingBottom="14dp"
+                android:singleLine="true"
+                android:textAlignment="viewStart"
+                android:textColor="@color/app_gray" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomButton
+                android:id="@+id/btAdd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="29dp"
+                android:background="@drawable/login_btgrad"
+                android:text="Update"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:visibility="gone" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomeTextRegular
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/nunito"
+                android:text="@string/PASSWORD" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomEditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/login_edit_grad"
+                android:elevation="1dp"
+                android:hint="@string/Password"
+                android:inputType="textPassword"
+                android:maxLength="18"
+                android:paddingStart="20dp"
+                android:paddingTop="14dp"
+                android:paddingEnd="20dp"
+                android:paddingBottom="14dp"
+                android:singleLine="true"
+                android:textAlignment="viewStart"
+                android:textColor="@color/app_gray"
+                android:textDirection="locale" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomeTextRegular
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/nunito"
+                android:maxLength="18"
+                android:text="@string/CONFIRM_PASSWORD" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomEditText
+                android:id="@+id/etRePassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/login_edit_grad"
+                android:elevation="1dp"
+                android:hint="@string/CONFIRM_PASSWORD"
+                android:inputType="textPassword"
+                android:maxLength="18"
+                android:paddingStart="12dp"
+                android:paddingTop="14dp"
+                android:paddingEnd="20dp"
+                android:paddingBottom="14dp"
+                android:singleLine="true"
+                android:textAlignment="viewStart"
+                android:textColor="@color/app_gray"
+                android:textDirection="locale" />
+
+            <RelativeLayout
+                android:id="@+id/btChngPass"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp">
+
+                <ImageView
+                    android:layout_width="175dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/backbutton" />
+
+                <com.creativestudio.inlab.utils.widgets.CustomeTextRegular
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:layout_centerHorizontal="true"
+                    android:fontFamily="@font/nunito"
+                    android:gravity="center"
+                    android:text="@string/SAVE"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backcurve"
+    android:orientation="vertical"
+    tools:context=".ui.settingdashboard.ActivitySettingDashboard">
+
+    <include
+        android:id="@+id/header"
+        layout="@layout/header" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/back_curve_grey"
+        android:paddingStart="@dimen/_6sdp"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingEnd="@dimen/_6sdp"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/llEditProfile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:layout_marginTop="@dimen/_6sdp"
+                android:layout_marginEnd="@dimen/_12sdp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:background="@drawable/back_counthome"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/editprofile" />
+
+                <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.55"
+                    android:gravity="center_vertical"
+                    android:text="@string/Edit_Profile"
+                    android:textColor="@color/colorText"
+                    android:textSize="@dimen/_14sdp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_16sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.12"
+                    android:src="@drawable/vector_next"
+                    app:tint="@color/colorText" />
+
+
+            </LinearLayout>
+            <!-- Apply Leave
+                        <LinearLayout
+
+                            android:id="@+id/llApplyLeave"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/_12sdp"
+                            android:layout_marginEnd="@dimen/_12sdp"
+                            android:layout_marginBottom="@dimen/_8sdp"
+                            android:background="@drawable/back_counthome"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="50dp"
+                                android:layout_marginTop="@dimen/_12sdp"
+                                android:layout_weight="0.25"
+                                android:src="@drawable/leave" />
+
+                            <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_weight="0.55"
+                                android:gravity="center_vertical"
+                                android:text="@string/Apply_Leave"
+                                android:textColor="@color/colorText"
+                                android:textSize="@dimen/_14sdp" />
+
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="@dimen/_16sdp"
+                                android:layout_gravity="center_vertical"
+                                android:layout_weight="0.12"
+                                android:src="@drawable/vector_next"
+                                app:tint="@color/colorText" />
+
+
+                        </LinearLayout>
+            -->
+
+            <LinearLayout
+                android:id="@+id/llCertificate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:layout_marginEnd="@dimen/_12sdp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:background="@drawable/back_counthome"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/download" />
+
+                <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.55"
+                    android:gravity="center_vertical"
+                    android:text="@string/Download_Certificate"
+                    android:textColor="@color/colorText"
+                    android:textSize="@dimen/_14sdp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_16sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.12"
+                    android:src="@drawable/vector_next"
+                    app:tint="@color/colorText" />
+
+
+            </LinearLayout>
+            <!-- Privacy Police
+                        <LinearLayout
+                            android:id="@+id/btnPrivacypolicy"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/_12sdp"
+                            android:layout_marginEnd="@dimen/_12sdp"
+                            android:layout_marginBottom="@dimen/_8sdp"
+                            android:background="@drawable/back_counthome"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="50dp"
+                                android:layout_marginTop="@dimen/_12sdp"
+                                android:layout_weight="0.25"
+                                android:src="@drawable/privacypolicy" />
+
+                            <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_weight="0.55"
+                                android:gravity="center_vertical"
+                                android:text="@string/Privacy_Policy"
+                                android:textColor="@color/colorText"
+                                android:textSize="@dimen/_14sdp" />
+
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="@dimen/_16sdp"
+                                android:layout_gravity="center_vertical"
+                                android:layout_weight="0.12"
+                                android:src="@drawable/vector_next"
+                                app:tint="@color/colorText" />
+
+
+                        </LinearLayout>
+            -->
+            <!-- About App
+             <LinearLayout
+                 android:id="@+id/btnAboutApp"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_marginStart="@dimen/_12sdp"
+                 android:layout_marginEnd="@dimen/_12sdp"
+                 android:layout_marginBottom="@dimen/_8sdp"
+                 android:background="@drawable/back_counthome"
+                 android:orientation="horizontal">
+
+                 <ImageView
+                     android:layout_width="0dp"
+                     android:layout_height="50dp"
+                     android:layout_marginTop="@dimen/_12sdp"
+                     android:layout_weight="0.25"
+                     android:src="@drawable/aboutapp" />
+
+                 <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center_vertical"
+                     android:layout_weight="0.55"
+                     android:gravity="center_vertical"
+                     android:text="@string/About_App"
+                     android:textColor="@color/colorText"
+                     android:textSize="@dimen/_14sdp" />
+
+                 <ImageView
+                     android:layout_width="0dp"
+                     android:layout_height="@dimen/_16sdp"
+                     android:layout_gravity="center_vertical"
+                     android:layout_weight="0.12"
+                     android:src="@drawable/vector_next"
+                     app:tint="@color/colorText" />
+
+
+             </LinearLayout>
+ -->
+            <!-- Open Source Library
+                     <LinearLayout
+
+                         android:id="@+id/btnOpenSourceLibrary"
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:layout_marginStart="@dimen/_12sdp"
+                         android:layout_marginEnd="@dimen/_12sdp"
+                         android:layout_marginBottom="@dimen/_8sdp"
+                         android:background="@drawable/back_counthome"
+                         android:orientation="horizontal">
+
+                         <ImageView
+                             android:layout_width="0dp"
+                             android:layout_height="50dp"
+                             android:layout_marginTop="@dimen/_12sdp"
+                             android:layout_weight="0.25"
+                             android:src="@drawable/policies_pg" />
+
+                         <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                             android:layout_width="0dp"
+                             android:layout_height="wrap_content"
+                             android:layout_gravity="center_vertical"
+                             android:layout_weight="0.55"
+                             android:gravity="center_vertical"
+                             android:text="@string/Open_Source_Library"
+                             android:textColor="@color/colorText"
+                             android:textSize="@dimen/_14sdp" />
+
+                         <ImageView
+                             android:layout_width="0dp"
+                             android:layout_height="@dimen/_16sdp"
+                             android:layout_gravity="center_vertical"
+                             android:layout_weight="0.12"
+                             android:src="@drawable/vector_next"
+                             app:tint="@color/colorText" />
+
+
+                     </LinearLayout>
+         -->
+            <LinearLayout
+
+                android:id="@+id/llLogout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:layout_marginEnd="@dimen/_12sdp"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:background="@drawable/back_counthome"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/logout" />
+
+                <com.creativestudio.inlab.utils.widgets.CustomTextSemiBold
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.55"
+                    android:gravity="center_vertical"
+                    android:text="@string/Logout"
+                    android:textColor="@color/colorText"
+                    android:textSize="@dimen/_14sdp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_16sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.12"
+                    android:src="@drawable/vector_next"
+                    app:tint="@color/colorText" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

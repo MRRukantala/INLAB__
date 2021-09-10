@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipeRefreshLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical"
+    tools:context=".ui.home.ActivityHome">
+
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/back_ui"
+        android:paddingTop="8dp"
+
+        />
+
+
+    <com.creativestudio.inlab.utils.widgets.CustomTextExtraBold
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:fontFamily="@font/nunito"
+        android:gravity="center_vertical"
+        android:text="@string/app_name"
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:id="@+id/llcount"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_31sdp"
+        android:layout_marginTop="@dimen/_60sdp"
+        android:layout_marginEnd="@dimen/_31sdp"
+        android:background="@drawable/back_counthome"
+        android:orientation="horizontal"
+
+        android:padding="3dp"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:id="@+id/llExtraClass"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                android:id="@+id/extraCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/nunito"
+                android:gravity="center_horizontal|bottom"
+                android:text="0"
+                android:textColor="@color/colorText"
+                android:textSize="@dimen/_14sdp" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                android:id="@+id/extra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="-2dp"
+                android:fontFamily="@font/nunito"
+                android:gravity="center"
+                android:text="@string/ExtraClass"
+                android:textColor="@color/colorText"
+                android:textSize="@dimen/_11sdp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llMockPapers"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                android:id="@+id/mockCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/nunito"
+                android:gravity="center_horizontal|bottom"
+                android:text="0"
+                android:textColor="@color/colorText"
+                android:textSize="@dimen/_14sdp" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                android:id="@+id/mockPapers"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="-2dp"
+                android:fontFamily="@font/nunito"
+                android:gravity="center"
+                android:text="@string/MockPaper"
+                android:textColor="@color/colorText"
+
+                android:textSize="@dimen/_11sdp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llExams"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.81"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                android:id="@+id/vacancyCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/nunito"
+                android:gravity="center_horizontal|bottom"
+                android:text="0"
+                android:textColor="@color/colorText"
+                android:textSize="@dimen/_14sdp"
+                android:textStyle="bold" />
+
+            <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                android:id="@+id/vacancy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="-2dp"
+                android:fontFamily="@font/nunito"
+                android:gravity="center"
+                android:text="@string/Exams"
+                android:textColor="@color/colorText"
+                android:textSize="@dimen/_11sdp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlpro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:gravity="start"
+        android:padding="2dp"
+
+        >
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile"
+            android:layout_width="@dimen/_41sdp"
+            android:layout_height="@dimen/_41sdp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/ic_profile"
+            app:civ_border_color="@color/white"
+            app:civ_border_width="2dp" />
+
+        <com.creativestudio.inlab.utils.widgets.CustomTextExtraBold
+            android:id="@+id/tvHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profile"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="5dp"
+            android:text=""
+            android:textColor="@color/white"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/llcount">
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/llcount">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/llnotics"
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:orientation="vertical">
+
+                    <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                        android:id="@+id/welcomhead"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="14dp"
+                        android:layout_marginTop="2dp"
+                        android:text="@string/WelcomeToday_new_topic"
+                        android:textColor="@color/graylyt"
+                        android:visibility="gone" />
+
+                    <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                        android:id="@+id/tvTodayDate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="14dp"
+                        android:text="Mon,2-july-2020"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:visibility="gone" />
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/rvNotis"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginBottom="4dp" />
+                </LinearLayout>
+
+
+                <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                    android:id="@+id/tvLiveclasses"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/llnotics"
+                    android:layout_marginLeft="14dp"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:layout_weight="1"
+                    android:text="@string/Live_class"
+                    android:textColor="@color/colorText"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/llLive"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvLiveclasses"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="12dp"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/back_counthome"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/_5sdp"
+                    android:visibility="gone"
+
+                    >
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/liveClassImage"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_marginLeft="@dimen/_3sdp"
+                        android:layout_marginBottom="2dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/ic_profile" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="12dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                            android:id="@+id/nameTv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" "
+                            android:textColor="@color/colorText" />
+
+                        <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                            android:id="@+id/tvTopic"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-2dp"
+                            android:text=""
+                            android:textColor="@color/colorText"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="@dimen/_55sdp"
+                        android:layout_height="15dp"
+
+                        android:layout_gravity="right"
+                        android:src="@drawable/liveimg" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/llLive"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_12sdp"
+                        android:layout_marginTop="@dimen/_3sdp"
+                        android:layout_marginEnd="@dimen/_12sdp"
+                        android:orientation="horizontal">
+
+                        <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                            android:id="@+id/tvTop"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:text="@string/Top_Scorer"
+                            android:textColor="@color/colorText"
+                            android:visibility="gone" />
+
+                        <com.creativestudio.inlab.utils.widgets.CustomSmallText
+                            android:id="@+id/tvYourScore"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:text="@string/See_your_score_here."
+                            android:textColor="@color/colorText"
+                            android:textStyle="normal"
+                            android:visibility="gone" />
+                    </RelativeLayout>
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/rvRank"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginRight="12dp"
+                        android:layout_marginBottom="2dp"
+
+
+                        />
+
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/rvHome"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="3dp"
+                        android:layout_marginBottom="1dp"
+
+
+                        />
+                </LinearLayout>
+            </RelativeLayout>
+
+        </androidx.core.widget.NestedScrollView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</RelativeLayout>

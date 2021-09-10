@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03._Android_Code.iml" filepath="$PROJECT_DIR$/.idea/modules/03._Android_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/03._Android_Code.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/03._Android_Code.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonlib/03._Android_Code.commonlib.iml" filepath="$PROJECT_DIR$/.idea/modules/commonlib/03._Android_Code.commonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobilertc/03._Android_Code.mobilertc.iml" filepath="$PROJECT_DIR$/.idea/modules/mobilertc/03._Android_Code.mobilertc.iml" />
+    </modules>
+  </component>
+</project>
